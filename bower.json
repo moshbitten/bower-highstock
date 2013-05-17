@@ -4,5 +4,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/moshbit/highstock.git"
+  },
+  "dependencies": {
+    "jquery": "jquery"
   }
 }
